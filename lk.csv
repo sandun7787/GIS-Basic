@@ -1,0 +1,31 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Colombo,6.9344,79.8428,Sri Lanka,LK,Western,primary,2323826,752993
+Mount Lavinia,6.8731,79.8758,Sri Lanka,LK,Western,,245974,245974
+Kesbewa,6.7953,79.9386,Sri Lanka,LK,Western,,243842,243842
+Moratuwa,6.7991,79.8767,Sri Lanka,LK,Western,,200000,168280
+Maharagama,6.8494,79.9236,Sri Lanka,LK,Western,,195355,195355
+Ratnapura,6.6806,80.4022,Sri Lanka,LK,Sabaragamuwa,admin,165998,165998
+Kandy,7.2964,80.6350,Sri Lanka,LK,Central,admin,161000,120087
+Negombo,7.2111,79.8386,Sri Lanka,LK,Western,,142136,142136
+Sri Jayewardenepura Kotte,6.9108,79.8878,Sri Lanka,LK,Western,primary,115826,115826
+Kalmunai,7.4167,81.8167,Sri Lanka,LK,Eastern,,106780,106780
+Trincomalee,8.5667,81.2333,Sri Lanka,LK,Eastern,admin,99135,99135
+Galle,6.0536,80.2117,Sri Lanka,LK,Southern,admin,93118,93118
+Jaffna,9.6647,80.0167,Sri Lanka,LK,North Central,admin,88138,88138
+Athurugiriya,6.8922,79.9428,Sri Lanka,LK,Western,,84278,84278
+Weligama,5.9739,80.4294,Sri Lanka,LK,Southern,,72511,72511
+Matara,5.9500,80.5333,Sri Lanka,LK,Southern,,68244,68244
+Kolonnawa,6.9283,79.8950,Sri Lanka,LK,Western,,64887,64887
+Gampaha,7.0917,79.9997,Sri Lanka,LK,Western,,62797,62797
+Puttalam,8.0330,79.8260,Sri Lanka,LK,North Western,,45661,45661
+Badulla,6.9847,81.0564,Sri Lanka,LK,Uva,admin,42923,42923
+Kalutara,6.5869,79.9603,Sri Lanka,LK,Western,,37081,37081
+Bentota,6.4200,80.0000,Sri Lanka,LK,Southern,,37000,37000
+Matale,7.4667,80.6167,Sri Lanka,LK,Central,,36451,36451
+Mannar,8.9772,79.9138,Sri Lanka,LK,North Central,,35000,35000
+Pothuhera,7.4199,80.3274,Sri Lanka,LK,North Western,,30315,30315
+Kurunegala,7.4833,80.3667,Sri Lanka,LK,North Western,admin,30315,30315
+Mabole,7.0000,79.9000,Sri Lanka,LK,Western,,29880,29880
+Hatton,6.8897,80.5981,Sri Lanka,LK,Central,,15073,15073
+Hambantota,6.1244,81.1225,Sri Lanka,LK,Southern,,11213,11213
+Oruwala,6.8903,79.9963,Sri Lanka,LK,Western,,4501,4501
