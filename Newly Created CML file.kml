@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="icbt_campus_network" id="icbt_campus_network">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>icbt_campus_network</name>
+  <Placemark>
+	<name>ICBT Kandy Campus</name>
+	<description>This is the location of ICBT Kandy Campus, a leading private higher education institute.</description>
+	<ExtendedData><SchemaData schemaUrl="#icbt_campus_network">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.635447,7.302321,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ICBT Colombo Main CampusThis </name>
+	<description>This is ICBT Colombo Campus, the main campus of the whole ICBT Network. ICBT Campus is an UGC approved one of the few  private higher education institutes in Sri Lanka.</description>
+	<ExtendedData><SchemaData schemaUrl="#icbt_campus_network">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.860264,6.885714,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ICBT Jaffna Campus</name>
+	<description>This is ICBT Jaffna Campus, one of the few private higher education institutes located in Northern part of the Island. </description>
+	<ExtendedData><SchemaData schemaUrl="#icbt_campus_network">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.016466,9.672828,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ICBT Sothern Campus</name>
+	<description>This is ICBT Southern Campus, one of the leading private higher edication entity located in the southern part of the Island</description>
+	<ExtendedData><SchemaData schemaUrl="#icbt_campus_network">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.546571,5.94973,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

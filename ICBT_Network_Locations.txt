@@ -1,0 +1,17 @@
+ICBT Kandy
+Lt:  7.302321°
+Lg: 80.635447°
+
+ICBT Colombo
+Lt:  6.885714°
+Lg: 79.860264°
+
+
+ICBT Jaffna
+Lt:  9.672828°
+Lg: 80.016466°
+
+
+ICBT Southern
+Lt:  5.949730°
+Lg: 80.546571°
