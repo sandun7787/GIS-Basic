@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ICBT Campus Network.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>ICBT Campus Network</name>
+		<open>1</open>
+		<Placemark>
+			<name>ICBT Kandy Campus</name>
+			<description>This is the location of ICBT Kandy Campus, a leading private higher education institute.</description>
+			<LookAt>
+				<longitude>80.6354833402721</longitude>
+				<latitude>7.302384885869069</latitude>
+				<altitude>0</altitude>
+				<heading>5.426821425247125e-14</heading>
+				<tilt>0</tilt>
+				<range>73.21625960210676</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.635447,7.302321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ICBT Colombo Main CampusThis </name>
+			<description>This is ICBT Colombo Campus, the main campus of the whole ICBT Network. ICBT Campus is an UGC approved one of the few  private higher education institutes in Sri Lanka.</description>
+			<LookAt>
+				<longitude>79.86035863983217</longitude>
+				<latitude>6.885685341185952</latitude>
+				<altitude>0</altitude>
+				<heading>1.865393110789203e-06</heading>
+				<tilt>0</tilt>
+				<range>103.4881541538269</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>79.860264,6.885714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ICBT Jaffna Campus</name>
+			<description>This is ICBT Jaffna Campus, one of the few private higher education institutes located in Northern part of the Island. </description>
+			<LookAt>
+				<longitude>80.0163256877303</longitude>
+				<latitude>9.67277838436935</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001483059227538372</heading>
+				<tilt>0</tilt>
+				<range>74.35428286011691</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.01646599999999,9.672828000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ICBT Sothern Campus</name>
+			<description>This is ICBT Southern Campus, one of the leading private higher edication entity located in the southern part of the Island</description>
+			<LookAt>
+				<longitude>80.54648515808101</longitude>
+				<latitude>5.949725454610403</latitude>
+				<altitude>0</altitude>
+				<heading>2.079947827598991e-05</heading>
+				<tilt>0</tilt>
+				<range>73.78508051726718</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.546571,5.94973,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
